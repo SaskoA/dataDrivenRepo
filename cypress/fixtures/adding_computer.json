@@ -1,0 +1,6 @@
+
+[
+    { "computer_name": "sasko1", "introduced": "2020-10-10", "discontinued": "2025-10-10", "company": "ASUS" },
+    { "computer_name": "sasko2", "introduced": "2021-10-10", "discontinued": "2025-10-10", "company": "IBM" },
+    { "computer_name": "sasko3", "introduced": "2022-10-10", "discontinued": "2025-10-10", "company": "Sony" }
+  ]
